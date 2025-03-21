@@ -14,3 +14,4 @@ A codebase with the python FastAPI
 ## To run the application
 `fastapi dev main.py` - to run in develop mode
 `fastapi run main.py` - to run in proiduction mode
+The application will run in port 8080 and we can see the api documentation in the swagger api doc
